@@ -1,4 +1,3 @@
-
 //Logo randomiser 1.0
 //by Kyle Mcaslan 17/04/14
 //for use under the Creative Commons Attribution-ShareAlike 4.0 International Public License
